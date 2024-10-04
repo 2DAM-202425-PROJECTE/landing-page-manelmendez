@@ -7,3 +7,11 @@
 .custom-font {
     font-family: 'Roboto', sans-serif;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.service-item:hover {
+    color: #f9a826;
+}
